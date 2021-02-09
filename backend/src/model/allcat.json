@@ -1,0 +1,46 @@
+[
+    {
+      "image":"assets/img/Grilled Peanut Butter Sandwiches.png",
+      "title":"Grilled Peanut Butter Sandwiches",
+      "time":"4 mins",
+      "ingredient":"2 slices bread \n 2 tablespoons peanut butter \n 2 tablespoons butter or 2 tablespoons margarine, softened \n",
+      "instruction":"Heat a skillet over medium heat until hot.\n Meanwhile, spread the peanut butter on one slice of bread and top it with the other slice of bread. Butter the outsides of the bread, both sides.\n Lay the sandwich on the hot skillet and let it brown until golden. Flip it over and cook the other side until it is also golden.\n Serve warm!"
+    },
+    {
+        "image":"assets/img/Sauteed Mushrooms.png",
+        "title":"Sauteed Mushrooms",
+        "time":"15 mins",
+        "ingredient":"1/2 lb assorted fresh mushrooms \n 2 cloves garlic, chopped fine\n 1 tablespoon olive oil\n 1 tablespoon hearty brown rice miso \n 1/2 cup chopped parsley",
+        "instruction":"Put mushrooms, garlic, and olive oil in large skillet over medium flame.\n Sauté until mushrooms begin to turn soft.\nAdd miso and sauté 4-5 minutes longer.\nStir in parsley and remove from heat.\n Serve hot or cold."
+      },
+      {
+        "image":"assets/img/Hot Dark Chocolate.png",
+        "title":"Hot Dark Chocolate",
+        "time":"10 mins",
+        "ingredient":"1 quart milk (may use soy, almond, cow, rice milk)\n 1/4 cup unsweetened cocoa\n 1/4 cup sugar \n 2 ounces dark chocolate, finely chopped (or semi sweet chocolate)\n2 teaspoons pure vanilla extract",
+        "instruction":"In 2-quart saucepan, heat milk to simmering over medium heat.\n With wire whisk, stir in cocoa, sugar, chocolate, and vanilla. Heat mixture 3 minutes or until chocolate melts, stirring occasionally.\nPour into warm mugs to serve.\nVariations:.\nMexican Hot Chocolate:\nPrepare Hot Dark Chocolate as above, but add 1 cinnamon stick (3 inches long) to milk in step 1.\n Coffee-Spiked Hot Chocolate:.\n Prepare Hot Dark Chocolate as above, but stir 1/4 cup strong coffee(I use decaf) into chocolate mixture just before serving."
+      },
+      {
+        "image":"assets/img/Fried Ice Cream.png",
+        "title":"Fried Ice Cream",
+        "time":"1 hr 10 mins",
+        "ingredient":"6 scoops vanilla ice cream\n 2 egg whites, whisked \n 3 cups vanilla wafer crumbs\n3 teaspoons cinnamon\nPeanut oil or vegetable oil",
+        "instruction":"Combine crumbs and cinnamon.\n Dip ice cream ball in egg white, then in crumb mix.\nWrap individually in cellophane.\nFreeze 30 minutes.\nDip in egg white, then crumb mix again.\n Wrap again and freeze 30 minutes.\n Unwrap and deep fry or pan fry in HOT oil 20 seconds or until outside gets crispy.\nTop with extras (marshmallow creme, chocolate syrup and a cherry!)."
+      },
+      {
+        "image":"assets/img/Vegan Chocolate Cake With Vegan Icing.png",
+        "title":"Vegan Chocolate Cake With Vegan Icing",
+        "time":"50 mins",
+        "ingredient":"3 cups flour (spelt)\n 2 cups sugar (natural)\n 2 teaspoons baking soda\n1 cup cocoa powder\n1 teaspoon sea salt\n2 egg substitute (i used ground flax seed and water) \n 1 cup soymilk \n 3/4 cup light oil \n 2 teaspoons vanilla extract (i used maple) \n 1 cup boiling water \n 8 ounces cream cheese (sofened-i used toffuti) \n 1/4 cup margarine (softened-i used earth balance) \n 1/2 teaspoon vanilla extract \n 1/8 teaspoon sea salt \n 3/4 cup cocoa \n 3 3/4 cups powdered sugar",
+        "instruction":"PRE-PREPARATIONS:.\n Preheat your oven to 350F.\n Prepare your baking pan(s). Make sure you grease them well and put parchment on the bottom of the pans. This cake can stick.\n You can use a tub pan. If you do, bake this for one hour.\n You can use a 9 x 13 rectangular pan, if you do bake for 45 minutes.\n If you use 2 round 8 cake pans bake for 30-35 minutes.\n Not all ovens are the same so cooking times may vary slightly.\n After the cake is done, check it with a skewer by sticking it in the middle of the cake. If its done, the skewer will come out clean.\n NOW FOR THE CAKE:.\n Mix the dry ingredients in a bowl.\n Mix the wet ingredients together well and add to the dry ingredients. Mix together until totally combined and smooth.\n Put the batter into your prepared pan(s) and bake according to the above directions:.\n FOR THE CREAM CHEESE ICING:.\n In a deep narrow bowl beat the cream cheese, margarine, vanilla and sea salt together well until it is a creamy mixture.\n Add the cocoa and mix thoroughly. You could leave the cocoa out if you want a white icing.\n Add the powdered sugar until the icing is the consistency you like. I prefer mine somewhat stiff, but its up to you.\n Once the cake(s) are totally cooled ice them and put into the fridge to set up for about 1 hour.\nCut yourself a big slice and enjoy with your favourite beverage.\n Bon Appetit!"
+      },
+      {
+        "image":"assets/img/Spiced Lemonade.png",
+        "title":"Spiced Lemonade",
+        "time":"15 mins",
+        "ingredient":"6 cups water , divided \n 3/4 cup sugar \n 2 cinnamon sticks \n 6 whole cloves \n 1 large lime , thinly sliced \n 1 lemon , thinly sliced \n 3/4 cup fresh lemon juice",      
+        "instruction":"In a large saucepan, bring 4 cups water, sugar, cinnamon sticks and cloves to a boil.\n Reduce heat, simmer 10 minutes.\n Remove from heat, discard cinnamon and cloves.\n Cool.\n Pour into a large pitcher.\n Stir in lime, lemon, lemon juice and remaining water.\n Chill at least 1 hour before serving."
+      }
+    
+
+]
